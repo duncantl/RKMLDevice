@@ -1,0 +1,6 @@
+.*.km[lz]$
+.*/..Rcheck/.*
+.*autom4te.cache.*
+.*/config.log
+.*/config.status
+

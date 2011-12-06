@@ -1,0 +1,8 @@
+Interestingly, when we display a plot from R in KML,
+the elements appear in the Places in their own folder.
+We can then control which ones appear. This allows us to 
+highlight particular elements, e.g. smooth curves.
+
+If we can reorganize the nodes into sub-folders
+for each axis, data region, title, etc.
+or for different panels in a lattice plot
